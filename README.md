@@ -21,6 +21,8 @@
 
 |名称|地址|类型|EPG|台标|
 | ------------ | ------------ | ------------ | ------------ |------------ |
+|[陕西联通单播 (直链)](https://github.com/saodisengyyds/IPTV/blob/main/m3u/shanxiunicom.m3u)|https://cdn.jsdelivr.net/gh/saodisengyyds/IPTV@main/m3u/shanxiunicom.m3u|IPV4|✔️|✔️|
+|[陕西联通回看时移](https://github.com/saodisengyyds/IPTV/blob/main/m3u/shanxiunicom_playback.m3u)|https://cdn.jsdelivr.net/gh/saodisengyyds/IPTV@main/m3u/shanxiunicom_playback.m3u|IPV4|✔️|✔️|
 |[YanG-1989](https://yang-1989.eu.org/)|https://tv.iill.top/m3u/Gather|IPV4|✔️|✔️|
 |[vbskycn](https://github.com/vbskycn/iptv)|https://live.zbds.org/tv/iptv6.m3u|IPV6|✔️|✔️|
 |[vbskycn](https://github.com/vbskycn/iptv)|https://live.zbds.org/tv/iptv4.m3u|IPV4|✔️|✔️|
